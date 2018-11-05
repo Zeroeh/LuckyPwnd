@@ -1,0 +1,21 @@
+{
+	"IsNeedToUpdate": false,
+	"CardInfo": {
+		"CardsPlayed": 10,
+		"LastCardPlayed": "2018-10-07T23:06:03.3870000"
+	},
+	"DailyBonusModel": {
+		"CanPlayBonusGame": false,
+		"Bonus": 0,
+		"DaysInApp": 2,
+		"Coefficient": 1
+	},
+	"ActualWallet": {
+		"WinChips": 197500,
+		"CashWallet": 1.00,
+		"WalletFlowStatement": null,
+		"WalletType": null
+	},
+	"Error": null
+}
+

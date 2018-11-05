@@ -1,0 +1,1 @@
+Error in response: Post http://api53.luckydayapp.com/v3/Games/Scratcher/Play: dial tcp: lookup api53.luckydayapp.com on 127.0.0.53:53: read udp 127.0.0.1:46034->127.0.0.53:53: i/o timeout

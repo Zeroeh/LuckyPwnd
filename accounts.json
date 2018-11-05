@@ -1,0 +1,12 @@
+[
+    {
+        "Email": "<REDACTED>@gmail.com",
+        "Password": "<REDACTED>",
+        "Cookie": "",
+        "Device": {
+            "DeviceToken": "<REDACTED>",
+            "OperatingSystem": 0,
+            "DeviceVersion": "iPhone 6s Plus"
+        }
+    }
+]
