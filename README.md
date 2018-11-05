@@ -9,3 +9,5 @@ I hastily made this app and had no long term plans for this project and thus the
 
 I will not help in setting this up, neither will I accept any issues or pull requests.
 No malicious intent was directed towards the developers of Lucky Day with this project. This was just something fun I wanted to work on and see if I could make some side cash.
+
+You can download lucky day here: https://apkpure.com/lucky-day-win-real-money/com.luckyday.app
