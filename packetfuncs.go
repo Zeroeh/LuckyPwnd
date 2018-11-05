@@ -44,7 +44,7 @@ func (b *Bot) registerRequest(email, password, devicev, token, first, last strin
 	p.UserDevice.OperatingSys = 0
 	p.FirstName = getRandString(10)
 	p.LastName = getRandString(10)
-	p.Password = "Password123"
+	p.Password = "SomePassword123"
 	buf := new(bytes.Buffer)
 	enc := json.NewEncoder(buf)
 	err := enc.Encode(&p)
