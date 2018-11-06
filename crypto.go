@@ -6,6 +6,7 @@ import (
 	"crypto/des"
 )
 
+//DES in 2018? Seriously?
 func encrypt(key, iv, plainText []byte) []byte {
 	block, _ := des.NewCipher(key)
 	blockSize := block.BlockSize()
